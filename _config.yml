@@ -1,0 +1,12 @@
+
+title: Vassa Klor
+description: Maine Coon-uppfödning
+baseurl: "" # Leave empty for localhost
+url: "" # Leave empty for localhost
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+include:
+  - assets

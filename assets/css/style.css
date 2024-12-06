@@ -1,0 +1,166 @@
+
+/* Typography */
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f9f9f9;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Lora', serif;
+}
+
+/* General Text Styling */
+.post-content {
+    margin: 1cm auto; /* Subtle margin around the text */
+    padding: 0 1rem;
+}
+
+/* Header */
+header {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    margin: 0; /* Ensure no margin on the header */
+    padding: 0; /* Ensure no padding on the header */
+}
+header nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 1rem 0; /* Add consistent padding only for nav content */
+    display: flex;
+    justify-content: center;
+}
+header nav ul li {
+    margin: 0 1em;
+}
+header nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.2rem;
+}
+
+/* Hero Section */
+.hero {
+    background: url('/assets/images/maine-coon-bg.jpg') no-repeat center center/cover;
+    color: white;
+    text-align: center;
+    padding: 5rem 1rem;
+}
+.hero h1 {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+}
+.hero p {
+    font-size: 1.5rem;
+    margin-bottom: 2rem;
+}
+.btn {
+    background-color: #ff6f61;
+    color: white;
+    padding: 0.75rem 1.5rem;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 1.2rem;
+    transition: background-color 0.3s;
+}
+.btn:hover {
+    background-color: #e0554f;
+}
+
+/* Gallery Section */
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1.5rem;
+}
+.kitten-card {
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    overflow: hidden;
+}
+.kitten-card img {
+    width: 100%;
+    cursor: pointer;
+}
+.kitten-card h2 {
+    font-family: 'Lora', serif;
+    font-size: 1.5rem;
+    margin: 1rem 0;
+}
+
+/* Fullscreen Gallery */
+.fullscreen {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.9);
+    display: none;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+}
+.fullscreen img {
+    max-width: 90%;
+    max-height: 90%;
+}
+.fullscreen .controls {
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    top: 50%;
+    transform: translateY(-50%);
+}
+.fullscreen .controls button {
+    background: rgba(255, 255, 255, 0.5);
+    border: none;
+    padding: 1rem;
+    cursor: pointer;
+    font-size: 1.5rem;
+    border-radius: 50%;
+}
+.fullscreen .close {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    background: rgba(255, 255, 255, 0.7);
+    border: none;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    font-size: 1rem;
+    border-radius: 5px;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 1rem 0;
+    background: #333;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+}
+footer .contact-info {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+footer .contact-info a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.5rem;
+    transition: color 0.3s;
+}
+footer .contact-info a:hover {
+    color: #ff6f61;
+}
