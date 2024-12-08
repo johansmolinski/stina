@@ -11,15 +11,106 @@ Värdfamiljen för katterna består av femåriga Valdy, mamma Aleksandra och pap
 <div class="gallery">
 
 <div class="kitten-card">
-    <img src="/assets/images/kittens/kitten-1.jpg" alt="Kitten 1">
+    <img src="/assets/images/kittens/kitten-1.jpg" alt="Julfotografering">
     <h2>Julfotografering</h2>
     <p></p>
 </div>
 
 <div class="kitten-card">
-    <img src="/assets/images/kittens/kitten-2.jpg" alt="Kitten 2">
-    <h2>Kullen</h2>
-    <p>Bach, Chopin och Vivaldi</p>
+    <img src="/assets/images/kittens/kitten-2.jpg" alt="Bach, Chopin och Vivaldi">
+    <h2>Bach, Chopin och Vivaldi</h2>
+</div>
+
+<div class="kitten-card">
+    <img src="/assets/images/kittens/kitten-3.jpg" alt="Vivaldi och Bach">
+    <h2>Vivaldi och Bach</h2>
+    <p>och Chopin sover där bakom</p>
+</div>
+
+<div class="kitten-card">
+    <img src="/assets/images/kittens/kitten-4.jpg" alt="Brödraskap">
+    <h2>Brödraskap</h2>
+    <p>Vivaldi håller en varm tass om brorsan</p>
+</div>
+
+<div class="kitten-card">
+    <img src="/assets/images/kittens/kitten-5.jpg" alt="Mer brödraskap">
+    <h2>Mer brödraskap</h2>
+    <p>Bach tvättar brorsan</p>
+</div>
+
+<div class="kitten-card">
+    <img src="/assets/images/kittens/kitten-6.jpg" alt="Ännu mer brödraskap">
+</div>
+
+<div class="kitten-card">
+    <img src="/assets/images/kittens/kitten-7.jpg" alt="Stina">
+    <h2>Stina</h2>
+    <p>Kullens förtjusande mor</p>
+</div>
+
+<div class="kitten-card">
+    <img src="/assets/images/kittens/kitten-8.jpg" alt="Jaktträning">
+    <h2>Jaktträning</h2>
+    <p>av intensivaste slag</p>
+</div>
+
+<div class="kitten-card">
+    <img src="/assets/images/kittens/kitten-9.jpg" alt="Chopin">
+    <h2>Chopin</h2>
+    <p>Säg omelett!</p>
+</div>
+
+<div class="kitten-card">
+    <img src="/assets/images/kittens/kitten-10.jpg" alt="Chopin">
+    <h2>Chopin</h2>
+    <p>Se upp för stupet</p>
+</div>
+
+<div class="kitten-card">
+    <img src="/assets/images/kittens/kitten-11.jpg" alt="Vivaldi">
+    <h2>Vivaldi</h2>
+    <p>Det kliar i tänderna när man ser en mus, även om det är en leksak</p>
+</div>
+
+<div class="kitten-card">
+    <img src="/assets/images/kittens/kitten-12.jpg" alt="Mera jaktträning">
+    <h2>Mera jaktträning</h2>
+</div>
+
+<div class="kitten-card">
+    <img src="/assets/images/kittens/kitten-13.jpg" alt="Stina">
+    <h2>Stina</h2>
+</div>
+
+<div class="kitten-card">
+    <img src="/assets/images/kittens/kitten-14.jpg" alt="Titta på kameran och le!">
+    <h2>Titta på kameran och le!</h2>
+    <p>Ja, det gäller även Bach och Chopin</p>
+</div>
+
+<div class="kitten-card">
+    <img src="/assets/images/kittens/kitten-15.jpg" alt="Full fart">
+    <h2>Full fart</h2>
+    <p>Chopin är igång</p>
+</div>
+
+<div class="kitten-card">
+    <img src="/assets/images/kittens/kitten-16.jpg" alt="Trötta katter">
+    <h2>Trötta katter</h2>
+    <p>Bach och Vivaldi ska ta en tupplur</p>
+</div>
+
+<div class="kitten-card">
+    <img src="/assets/images/kittens/kitten-17.jpg" alt="Här är kameran!">
+    <h2>Här är kameran!</h2>
+    <p>Men det går ju att titta på roligare saker också</p>
+</div>
+
+<div class="kitten-card">
+    <img src="/assets/images/kittens/kitten-18.jpg" alt="Ett till försök">
+    <h2>Ett till försök</h2>
+    <p>Och fler lär behövas</p>
 </div>
 
 </div>
