@@ -6,8 +6,18 @@ title: Maine Coon-kattungar i Södertälje
 <h1>Kattungar av SE*Vassa klor</h1>
 
 Stina är två år gammal och detta är hennes andra kull. Hon har tidigare fått en kull hos sin dåvarande familj i Norrköping, med samma hane som denna gång. Den förra kullen bestod av friska fina kattungar, precis som denna.
-Värdfamiljen för katterna består av femåriga Valdy, mamma Aleksandra och pappa Johan. Vi har haft katt i 16 år och har tidigare erfarenhet av kattungar, men detta är vår första renrasiga kull Maine Coon. Våra katter är sociala, trevliga och lekfulla. Aleksandra är registrerad uppfödare i SVERAK och stamnamnet är SE*Vassa klor.
+Värdfamiljen för katterna består av femåriga Valdy, mamma Aleksandra och pappa Johan. Vi har haft katt i 16 år och har tidigare erfarenhet av kattungar, men detta är vår första renrasiga kull Maine Coon. Våra katter är sociala, trevliga och lekfulla. Aleksandra är registrerad uppfödare i SVERAK och stamnamnet är SE*Vassa klor. Ungarna är Chopin, Bach och Vivaldi.
 
+<h2>Stamtavlor</h2>
+<ul>
+<li>Stina (mor): <a href="https://findus.sverak.se/Stambok/Visa/539053">S*RockMi Teeling</a></li>
+<li>Jacon (far): <a href="https://findus.sverak.se/Stambok/Visa/558104">Quiet Jacon off Afelio</a></li>
+<li>Chopin: <a href="https://findus.sverak.se/Stambok/Visa/571982">SE*Vassa klor Chopin</a></li>
+<li>Bach: <a href="https://findus.sverak.se/Stambok/Visa/571983">SE*Vassa klor Bach</a></li>
+<li>Vivaldi: <a href="https://findus.sverak.se/Stambok/Visa/571984">SE*Vassa klor Vivaldi</a></li>
+</ul>
+
+<h2>Fotogalleri</h2>
 <div class="gallery">
 
 <div class="kitten-card">
