@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "Köp en kattunge"
+title: "Köp en Maine Coon-kattunge i Södertälje"
 permalink: /kopa-kattunge.html
 ---
 Vad kul att ni är intresserade av att köpa en kattunge! Vår kull är leveransklar i början av februari 2025 då ungarna är 14 veckor. Då kommer ungarna
-* ha stamtavla i SVERAK,
+* ha stamtavla i SVERAK med stamnamn SE*Vassa klor,
 * vara chippade,
 * vara vaccinerade två gånger,
 * vara besiktigade, 

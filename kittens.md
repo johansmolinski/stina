@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Våra Maine Coon-kattungar
+title: Maine Coon-kattungar i Södertälje
 ---
 
-<h1>Kattungar</h1>
+<h1>Kattungar av SE*Vassa klor</h1>
 
 Stina är två år gammal och detta är hennes andra kull. Hon har tidigare fått en kull hos sin dåvarande familj i Norrköping, med samma hane som denna gång. Den förra kullen bestod av friska fina kattungar, precis som denna.
-Värdfamiljen för katterna består av femåriga Valdy, mamma Aleksandra och pappa Johan. Vi har haft katt i 16 år och har tidigare erfarenhet av kattungar, men detta är vår första renrasiga kull Maine Coon. Våra katter är sociala, trevliga och lekfulla.
+Värdfamiljen för katterna består av femåriga Valdy, mamma Aleksandra och pappa Johan. Vi har haft katt i 16 år och har tidigare erfarenhet av kattungar, men detta är vår första renrasiga kull Maine Coon. Våra katter är sociala, trevliga och lekfulla. Aleksandra är registrerad uppfödare i SVERAK och stamnamnet är SE*Vassa klor.
 
 <div class="gallery">
 
