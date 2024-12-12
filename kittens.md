@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Maine Coon-kattungar i Södertälje
+permalink: kattungar.html
 ---
 
 <h1>Kattungar av SE*Vassa klor</h1>
