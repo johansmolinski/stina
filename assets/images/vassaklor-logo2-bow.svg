@@ -13,7 +13,18 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs12" />
+     id="defs12">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath13">
+      <circle
+         style="fill:#ffffff;stroke-width:1.70739"
+         id="circle13"
+         cx="297.63779"
+         cy="297.63779"
+         r="297.63779" />
+    </clipPath>
+  </defs>
   <sodipodi:namedview
      id="namedview12"
      pagecolor="#ffffff"
@@ -41,7 +52,8 @@
      width="595.27557"
      height="595.27557"
      x="0"
-     y="0" />
+     y="0"
+     clip-path="url(#clipPath13)" />
   <g
      transform="matrix(-0.07965043,0,0,-0.07965043,698.35154,697.64828)"
      fill="#000000"
