@@ -6,13 +6,13 @@ permalink: kattungar.html
 
 <h1>Aktuell kull&dash;SE*Vassa klor</h1>
 
-Vi har för närvarande en kull på tre fantastiska grabbar: Bach, Vivaldi och Chopin. Här kan ni läsa om dem och titta på bilder.
+Just nu har vi inga kattungar tillgängliga.
 
-<h2>Lediga kattungar</h2>
+<h2>Hemmaboende kattungar</h2>
 <ul>
 <li>Bach (<a href="https://findus.sverak.se/Stambok/Visa/571983">stamtavla SE*Vassa klor Bach</a>)</li>
 </ul>
-<h2>Tingade kattungar</h2>
+<h2>Utflyttade kattungar</h2>
 <ul>
 <li>Vivaldi(<a href="https://findus.sverak.se/Stambok/Visa/571984">stamtavla SE*Vassa klor Vivaldi</a>)</li>
 <li>Chopin (<a href="https://findus.sverak.se/Stambok/Visa/571982">stamtavla SE*Vassa klor Chopin</a>)</li>
