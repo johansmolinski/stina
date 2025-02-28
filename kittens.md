@@ -8,22 +8,20 @@ permalink: kattungar.html
 
 Just nu har vi inga kattungar tillgängliga.
 
-<h2>Hemmaboende kattungar</h2>
-<ul>
-<li>Bach (<a href="https://findus.sverak.se/Stambok/Visa/571983">stamtavla SE*Vassa klor Bach</a>)</li>
-</ul>
-<h2>Utflyttade kattungar</h2>
+<h2>Förra kullen</h2>
+<h3>Kattungarna</h3>
 <ul>
 <li>Vivaldi(<a href="https://findus.sverak.se/Stambok/Visa/571984">stamtavla SE*Vassa klor Vivaldi</a>)</li>
 <li>Chopin (<a href="https://findus.sverak.se/Stambok/Visa/571982">stamtavla SE*Vassa klor Chopin</a>)</li>
+<li>Bach (<a href="https://findus.sverak.se/Stambok/Visa/571983">stamtavla SE*Vassa klor Bach</a>)</li>
 </ul>
-<h2>Föräldrar</h2>
+<h3>Föräldrarna</h3>
 <ul>
 <li>Stina (<a href="https://findus.sverak.se/Stambok/Visa/539053">stamtavla SE*RockMi Teeling</a>)</li>
 <li>Jacon (<a href="https://findus.sverak.se/Stambok/Visa/558104">stamtavla Quiet Jacon off Afelio</a>)</li>
 </ul>
 
-<h2>Fotogalleri</h2>
+<h3>Fotogalleri</h3>
 <div class="gallery">
 
 <div class="kitten-card">
