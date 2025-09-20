@@ -1,7 +1,0 @@
-
-- name: "Fluffy"
-  description: "En lekfull kattunge som älskar äventyr."
-  image: "/assets/images/fluffy.jpg"
-- name: "Smokey"
-  description: "En lugn och kärleksfull kattunge."
-  image: "/assets/images/smokey.jpg"
