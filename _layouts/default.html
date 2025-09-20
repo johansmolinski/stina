@@ -4,38 +4,38 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ page.title }} - Vassa klor</title>
+    <title>{{ page.title }} - {{ site.title }}</title>
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 
     <!-- Favicon -->
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-    <link rel="icon" href="/favicon.ico" type="image/x-icon">
-    <link rel="manifest" href="/site.webmanifest">
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ '/apple-touch-icon.png' | relative_url }}">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ '/favicon-32x32.png' | relative_url }}">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ '/favicon-16x16.png' | relative_url }}">
+    <link rel="icon" href="{{ '/favicon.ico' | relative_url }}" type="image/x-icon">
+    <link rel="manifest" href="{{ '/site.webmanifest' | relative_url }}">
 
     <!-- Universal tags for link previews -->
-    <meta name="title" content="SE*Vassa klor">
-    <meta name="description" content="Maine Coon-uppfödning i Södertälje, registrerad i SVERAK">
-    <meta name="image" content="https://vassaklor.se/assets/images/vassaklor-logo2-bow.svg">
-    <meta name="url" content="https://vassaklor.se">
-    <link rel="canonical" href="https://vassaklor.se/">
+    <meta name="title" content="{{ page.title | default: site.title }}">
+    <meta name="description" content="{{ page.description | default: site.description }}">
+    <meta name="image" content="{{ site.og_image | absolute_url }}">
+    <meta name="url" content="{{ site.url | default: '' }}">
+    <link rel="canonical" href="{{ page.url | absolute_url }}">
     <meta name="robots" content="index, follow">
 
 
-    <!-- Facebook -->
-    <meta property="og:title" content="SE*Vassa klor">
-    <meta property="og:description" content="Maine Coon-uppfödning i Södertälje, registrerad i SVERAK">
-    <meta property="og:image" content="https://vassaklor.se/assets/images/vassaklor-logo2-bow.svg">
-    <meta property="og:url" content="https://vassaklor.se">
+    <!-- Facebook / Open Graph -->
+    <meta property="og:title" content="{{ page.title | default: site.title }}">
+    <meta property="og:description" content="{{ page.description | default: site.description }}">
+    <meta property="og:image" content="{{ site.og_image | absolute_url }}">
+    <meta property="og:url" content="{{ page.url | absolute_url }}">
     <meta property="og:type" content="website">
     <meta property="og:locale" content="sv_SE">
 
     <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="SE*Vassa klor">
-    <meta name="twitter:description" content="Maine Coon-uppfödning i Södertälje, registrerad i SVERAK">
-    <meta name="twitter:image" content="https://vassaklor.se/assets/images/vassaklor-logo2-bow.svg">
+    <meta name="twitter:title" content="{{ page.title | default: site.title }}">
+    <meta name="twitter:description" content="{{ page.description | default: site.description }}">
+    <meta name="twitter:image" content="{{ site.og_image | absolute_url }}">
 </head>
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-6JKQFD4TN9"></script>

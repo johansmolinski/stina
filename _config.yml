@@ -2,7 +2,10 @@
 title: Vassa Klor
 description: Maine Coon-uppfödning
 baseurl: "" # Leave empty for localhost
-url: "" # Leave empty for localhost
+url: "https://vassaklor.se" # Set production URL (override or leave empty for localhost)
+# Site images / social preview
+logo: "/assets/images/vassaklor-logo2-bow.svg"
+og_image: "/assets/images/vassaklor-logo2-bow.svg"
 markdown: kramdown
 theme: minima
 plugins:
