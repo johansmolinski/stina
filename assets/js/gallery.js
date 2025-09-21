@@ -118,4 +118,41 @@ document.addEventListener("DOMContentLoaded", function() {
             fullscreen.classList.toggle('maximized');
         });
     });
+
+    // Touch swipe support for next/prev on touch devices
+    let touchStartX = null;
+    let touchStartY = null;
+    const SWIPE_THRESHOLD = 40; // px
+
+    fullscreen.addEventListener('touchstart', (e) => {
+        if (!e.touches || e.touches.length !== 1) return;
+        touchStartX = e.touches[0].clientX;
+        touchStartY = e.touches[0].clientY;
+    }, {passive: true});
+
+    fullscreen.addEventListener('touchend', (e) => {
+        if (touchStartX === null || !e.changedTouches || e.changedTouches.length !== 1) return;
+        const dx = e.changedTouches[0].clientX - touchStartX;
+        const dy = e.changedTouches[0].clientY - touchStartY;
+        // ignore mostly vertical swipes
+        if (Math.abs(dy) > Math.abs(dx)) {
+            touchStartX = null; touchStartY = null; return;
+        }
+        if (Math.abs(dx) > SWIPE_THRESHOLD) {
+            if (dx > 0) {
+                // swipe right -> previous
+                if (currentImage !== null) {
+                    currentImage = (currentImage - 1 + gallery.length) % gallery.length;
+                    showAtIndex(currentImage);
+                }
+            } else {
+                // swipe left -> next
+                if (currentImage !== null) {
+                    currentImage = (currentImage + 1) % gallery.length;
+                    showAtIndex(currentImage);
+                }
+            }
+        }
+        touchStartX = null; touchStartY = null;
+    }, {passive: true});
 });
