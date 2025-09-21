@@ -21,6 +21,115 @@ Väl omhändertagen av mamma Stina och vår 8 månader gamla kattunge Sture, som
 <li>Jacon (<a href="https://findus.sverak.se/Stambok/Visa/558104">stamtavla Quiet Jacon off Afelio</a>)</li>
 </ul>
 
+<h3>Fotogalleri</h3>
+<div class="gallery">
+
+<div class="kitten-card">
+    <img src="/assets/images/kittens-02/atari-01.jpg" alt="Atari">
+</div>
+
+<div class="kitten-card">
+    <img src="/assets/images/kittens-02/atari-02.jpg" alt="Atari">
+</div>
+
+<div class="kitten-card">
+    <img src="/assets/images/kittens-02/atari-03.jpg" alt="Atari">
+</div>
+
+<div class="kitten-card">
+    <img src="/assets/images/kittens-02/atari-04.jpg" alt="Atari">
+</div>
+
+<div class="kitten-card">
+    <img src="/assets/images/kittens-02/atari-05.jpg" alt="Atari">
+</div>
+
+<div class="kitten-card">
+    <img src="/assets/images/kittens-02/atari-06.jpg" alt="Atari">
+</div>
+
+<div class="kitten-card">
+    <img src="/assets/images/kittens-02/atari-07.jpg" alt="Atari">
+</div>
+
+<div class="kitten-card">
+    <img src="/assets/images/kittens-02/atari-08.jpg" alt="Atari">
+</div>
+
+<div class="kitten-card">
+    <img src="/assets/images/kittens-02/atari-09.jpg" alt="Atari">
+</div>
+
+<div class="kitten-card">
+    <img src="/assets/images/kittens-02/atari-10.jpg" alt="Atari">
+</div>
+
+<div class="kitten-card">
+    <img src="/assets/images/kittens-02/atari-11.jpg" alt="Atari">
+    <h2>Sture</h2>
+</div>
+
+<div class="kitten-card">
+    <img src="/assets/images/kittens-02/atari-12.jpg" alt="Atari">
+</div>
+
+<div class="kitten-card">
+    <img src="/assets/images/kittens-02/atari-13.jpg" alt="Atari">
+</div>
+
+<div class="kitten-card">
+    <img src="/assets/images/kittens-02/atari-14.jpg" alt="Atari">
+</div>
+
+<div class="kitten-card">
+    <img src="/assets/images/kittens-02/atari-15.jpg" alt="Atari">
+</div>
+
+<div class="kitten-card">
+    <img src="/assets/images/kittens-02/atari-16.jpg" alt="Atari">
+</div>
+
+<div class="kitten-card">
+    <img src="/assets/images/kittens-02/atari-17.jpg" alt="Atari">
+</div>
+
+<div class="kitten-card">
+    <img src="/assets/images/kittens-02/atari-18.jpg" alt="Atari">
+</div>
+
+<div class="kitten-card">
+    <img src="/assets/images/kittens-02/atari-19.jpg" alt="Atari">
+</div>
+
+<div class="kitten-card">
+    <img src="/assets/images/kittens-02/atari-20.jpg" alt="Atari">
+</div>
+
+<div class="kitten-card">
+    <img src="/assets/images/kittens-02/atari-21.jpg" alt="Atari">
+</div>
+
+<div class="kitten-card">
+    <img src="/assets/images/kittens-02/atari-22.jpg" alt="Atari">
+</div>
+
+<div class="kitten-card">
+    <img src="/assets/images/kittens-02/atari-23.jpg" alt="Atari">
+</div>
+
+<div class="kitten-card">
+    <img src="/assets/images/kittens-02/atari-24.jpg" alt="Atari">
+</div>
+
+<div class="kitten-card">
+    <img src="/assets/images/kittens-02/atari-25.jpg" alt="Atari">
+</div>
+
+<div class="kitten-card">
+    <img src="/assets/images/kittens-02/atari-26.jpg" alt="Atari">
+</div>
+
+</div>
 
 <script>
 document.addEventListener("DOMContentLoaded", function() {
