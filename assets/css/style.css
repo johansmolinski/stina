@@ -168,7 +168,8 @@ header nav ul li a {
 :-moz-full-screen .fullscreen img,
 :-ms-fullscreen .fullscreen img {
     max-width: 100%;
-    max-height: 100%;
+    /* When in fullscreen, leave room for caption and controls */
+    max-height: calc(100vh - 4.5rem);
 }
 
 /* Fallback maximized view (class-based) */
@@ -179,6 +180,61 @@ header nav ul li a {
     width: 100vw;
     height: 100vh;
     object-fit: contain;
+}
+
+/* White framed panel around the image and caption */
+.fullscreen .frame {
+    background: #fff;
+    padding: 1rem;
+    border-radius: 8px;
+    box-shadow: 0 8px 30px rgba(0,0,0,0.6);
+    max-width: 95vw;
+    max-height: 90vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.75rem;
+    overflow: auto;
+}
+.fullscreen .frame img {
+    max-width: 100%;
+    /* leave room for caption + padding so caption is always visible */
+    max-height: calc(90vh - 4.5rem);
+    width: auto;
+    height: auto;
+    object-fit: contain;
+    background: #fff;
+    border-radius: 6px;
+}
+.fullscreen .caption {
+    width: 100%;
+    text-align: center;
+    color: #222;
+    padding: 0.25rem 0.5rem 0.5rem 0.5rem;
+    min-height: 3.5rem;
+}
+.fullscreen .caption h2 {
+    margin: 0.25rem 0;
+    font-size: 1.25rem;
+}
+.fullscreen .caption p {
+    margin: 0.25rem 0 0;
+    font-size: 1rem;
+    color: #444;
+}
+
+/* When maximized via CSS, ensure frame fills viewport while keeping padding */
+.fullscreen.maximized .frame {
+    width: 100vw;
+    height: 100vh;
+    border-radius: 0;
+    max-width: 100vw;
+    max-height: 100vh;
+    justify-content: center;
+}
+.fullscreen.maximized .frame img {
+    max-width: 100%;
+    max-height: calc(100vh - 4.5rem);
 }
 .fullscreen .close {
     position: absolute;
@@ -191,6 +247,51 @@ header nav ul li a {
     font-size: 1rem;
     border-radius: 5px;
 }
+
+/* fs-toggle when placed next to close (outside of controls) */
+.fullscreen > .fs-toggle {
+    position: absolute;
+    top: 1rem;
+    right: 5.25rem; /* slightly left of the close button */
+    padding: 0.45rem 0.6rem;
+    background: rgba(255,255,255,0.85);
+    border-radius: 6px;
+    font-size: 1.1rem;
+    border: none;
+    cursor: pointer;
+}
+
+.fullscreen .close svg {
+    display: block;
+}
+.fullscreen .close {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    background: rgba(255, 255, 255, 0.7);
+    border: none;
+    padding: 0.5rem;
+    cursor: pointer;
+    font-size: 1rem;
+    border-radius: 5px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Shared icon button styles */
+.icon-btn {
+    padding: 0.45rem 0.6rem;
+    background: rgba(255,255,255,0.85);
+    border-radius: 6px;
+    border: none;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+.icon-btn svg { width: 16px; height: 16px; display: block; }
+
 
 /* Footer */
 footer {
