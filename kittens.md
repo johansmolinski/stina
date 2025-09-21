@@ -69,12 +69,13 @@ Väl omhändertagen av mamma Stina och vår 8 månader gamla kattunge Sture, som
 </div>
 
 <div class="kitten-card">
-    <img src="/assets/images/kittens-02/jacon-01.jpg" alt="Jacon">
+    <img src="/assets/images/kittens-02/jacon-02.jpg" alt="Jacon">
     <h2>Jacon, pappa till Atari</h2>
+    <p>Bilden tagen hemma hos Jacon i Norrköping. Han bor alltså inte hemma hos oss.</p>
 </div>
 
 <div class="kitten-card">
-    <img src="/assets/images/kittens-02/jacon-02.jpg" alt="Jacon">
+    <img src="/assets/images/kittens-02/jacon-01.jpg" alt="Jacon">
     <h2>Jacon</h2>
 </div>
 

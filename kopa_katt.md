@@ -14,10 +14,32 @@ Att köpa en katt är ett stort beslut. Priset ni betalar vid inköp är den lil
 
 När ni kommer på besök och tingar en katt ser vi gärna att hela familjen är med. På samma sätt som ni behöver känna att det klickar mellan er och katten vill även vi känna att ni är rätt familj.
 
-Här är en [länk till Royal Canins guide med bra tips inför att skaffa en kattunge](https://www.royalcanin.com/se/cats/kitten/preparing-for-your-kittens-arrival).
+👉 Här är en [länk till Royal Canins guide med bra tips inför att skaffa en kattunge](https://www.royalcanin.com/se/cats/kitten/preparing-for-your-kittens-arrival).
 
 <!--
 Besök vår annons genom att klicka på knappen nedan. Skriv till oss via den annonsen, gärna med en presentation av er och vad ni kan erbjuda för hem och förutsättningar för kattungen.
 
 <a href="https://www.blocket.se/annons/stockholm/maine_coon_kattungar_med_stamtavla_/1208554925" class="btn">Annons på Blocket</a>
 -->
+
+## Om katteriet SE*Vassa klor
+
+Vem är det du köper katten av? Låt oss berätta om vårt lilla katteri!
+
+### Vår resa
+
+I augusti 2024 flyttade vår tvååriga avelshona Stina in hos oss, kort efter att vår älskade sällskapshona somnat in vid 16 års ålder. Med Stina började vårt nya kapitel inom kattvärlden.
+
+Hösten 2024 genomgick Aleksandra SVERAKs utbildning UppfödarEttan och registrerade stamnamnet SE*Vassa klor. Efter genomgången utbildning blev hon certifierad uppfödare. Vi följer SVERAKs riktlinjer för kattuppfödning samt hälsoprogrammet för Maine Coon. Förutom Aleksandra och katterna består familjen av maken Johan och sexåriga dottern Valdy.
+
+### Våra katter
+
+Både Stina och den avelshane hon tidigare parats med, Jacon, är hälsotestade för HCM (hjärtsjukdom) och HD (höftledsdysplasi), vilket är en självklarhet för oss.
+* Oktober 2024: Stina fick sin andra kull på tre hanar – starten för vårt lilla katteri.
+* Våren 2025: Kattungen Sture blev en del av familjen, med målet att bli framtida avelshane.
+* Sommaren 2025: Stina fick sin tredje kull med en bedårande hane, Atari.
+* Vi planerar även att utöka med en liten hona som på sikt kan ersätta Stina i avelsarbetet.
+
+### Vårt mål
+
+Vi vill föda upp friska, trygga och sociala Maine Coons med fint temperament. Alla kattungar växer upp som en del av familjen och får mycket kärlek, lek och omtanke från första stund.
