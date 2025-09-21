@@ -28,7 +28,7 @@ brew install ruby node
 brew install rbenv
 
 # Then install bundler (use the ruby from Homebrew or rbenv-managed Ruby)
-gem install bundler
+gem install bundlerbenv global 3.2.2r
 ```
 
 1. Install Bundler if needed:
