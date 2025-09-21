@@ -25,10 +25,6 @@ Väl omhändertagen av mamma Stina och vår 8 månader gamla kattunge Sture, som
 <div class="gallery">
 
 <div class="kitten-card">
-    <img src="/assets/images/kittens-02/atari-01.jpg" alt="Atari">
-</div>
-
-<div class="kitten-card">
     <img src="/assets/images/kittens-02/atari-02.jpg" alt="Atari">
 </div>
 
@@ -57,16 +53,40 @@ Väl omhändertagen av mamma Stina och vår 8 månader gamla kattunge Sture, som
 </div>
 
 <div class="kitten-card">
-    <img src="/assets/images/kittens-02/atari-09.jpg" alt="Atari">
-</div>
-
-<div class="kitten-card">
     <img src="/assets/images/kittens-02/atari-10.jpg" alt="Atari">
 </div>
 
 <div class="kitten-card">
-    <img src="/assets/images/kittens-02/atari-11.jpg" alt="Atari">
+    <img src="/assets/images/kittens-02/stina-01.jpg" alt="Stina">
+    <h2>Stina, mamma till Atari</h2>
+    <p>Världens stoltaste mamma!</p>
+</div>
+
+<div class="kitten-card">
+    <img src="/assets/images/kittens-02/atari-01.jpg" alt="Atari">
+    <h2>Stina och Atari</h2>
+    <p>Varför ska man tvättas när man har som roligast?!</p>
+</div>
+
+<div class="kitten-card">
+    <img src="/assets/images/kittens-02/jacon-01.jpg" alt="Jacon">
+    <h2>Jacon, pappa till Atari</h2>
+</div>
+
+<div class="kitten-card">
+    <img src="/assets/images/kittens-02/jacon-02.jpg" alt="Jacon">
+    <h2>Jacon</h2>
+</div>
+
+<div class="kitten-card">
+    <img src="/assets/images/kittens-02/jacon-03.jpg" alt="Jacon">
+    <h2>Jacon</h2>
+</div>
+
+<div class="kitten-card">
+    <img src="/assets/images/kittens-02/sture-01.jpg" alt="Atari">
     <h2>Sture</h2>
+    <p>8 månader unga Sture har lärt ut sina tricks till Atari.</p>
 </div>
 
 <div class="kitten-card">
@@ -79,6 +99,7 @@ Väl omhändertagen av mamma Stina och vår 8 månader gamla kattunge Sture, som
 
 <div class="kitten-card">
     <img src="/assets/images/kittens-02/atari-14.jpg" alt="Atari">
+    <p>Atari trimmar sina klor och Sture ser till att det går rätt till.</p>
 </div>
 
 <div class="kitten-card">
