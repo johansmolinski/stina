@@ -18,6 +18,12 @@ document.addEventListener("DOMContentLoaded", function() {
     next.innerHTML = "&#9654;";
     controls.appendChild(next);
 
+    const fsToggle = document.createElement("button");
+    fsToggle.classList.add("fs-toggle");
+    fsToggle.title = "Toggle fullscreen";
+    fsToggle.innerHTML = "⤢"; // fullscreen icon
+    controls.appendChild(fsToggle);
+
     const close = document.createElement("button");
     close.innerText = "Stäng";
     close.classList.add("close");
@@ -50,6 +56,40 @@ document.addEventListener("DOMContentLoaded", function() {
     });
 
     close.addEventListener("click", () => {
+        exitFullscreenIfNeeded();
         fullscreen.style.display = "none";
+    });
+
+    // Fullscreen API helpers
+    function requestFullscreen(element) {
+        if (element.requestFullscreen) return element.requestFullscreen();
+        if (element.webkitRequestFullscreen) return element.webkitRequestFullscreen();
+        if (element.mozRequestFullScreen) return element.mozRequestFullScreen();
+        if (element.msRequestFullscreen) return element.msRequestFullscreen();
+        return Promise.reject(new Error('Fullscreen API is not supported'));
+    }
+    function exitFullscreenIfNeeded() {
+        if (document.fullscreenElement || document.webkitFullscreenElement || document.mozFullScreenElement || document.msFullscreenElement) {
+            if (document.exitFullscreen) return document.exitFullscreen();
+            if (document.webkitExitFullscreen) return document.webkitExitFullscreen();
+            if (document.mozCancelFullScreen) return document.mozCancelFullScreen();
+            if (document.msExitFullscreen) return document.msExitFullscreen();
+        } else {
+            // remove maximized class fallback
+            fullscreen.classList.remove('maximized');
+        }
+    }
+
+    fsToggle.addEventListener('click', () => {
+        // Try to use Fullscreen API
+        if (document.fullscreenElement || document.webkitFullscreenElement || document.mozFullScreenElement || document.msFullscreenElement) {
+            exitFullscreenIfNeeded();
+            return;
+        }
+
+        requestFullscreen(fullscreen).catch(() => {
+            // Fallback: toggle maximized CSS class to approximate fullscreen
+            fullscreen.classList.toggle('maximized');
+        });
     });
 });
