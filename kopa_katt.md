@@ -3,12 +3,14 @@ layout: page
 title: "Köp en Maine Coon-kattunge i Södertälje"
 permalink: /kopa-kattunge.html
 ---
-Vad kul att ni är intresserade av vår kattunge! Han är leveransklar i mitten av oktober 2025 då han är 14 veckor. Han kommer då 
+Vad kul att ni är intresserade av vår kattunge Atari! Han är leveransklar i mitten av oktober 2025 då han är 14 veckor. Han kommer då 
 * ha stamtavla i SVERAK med stamnamn SE*Vassa klor,
 * vara chippad,
 * vara vaccinerad två gånger,
 * vara besiktigad, 
 * ha försäkring i Folksam mot dolda fel i 36 månader.
+
+<a href="https://www.blocket.se/annons/stockholm/renrasig_maine_coon_kattunge_med_stamtavla_/1213669126" class="btn">Atari på Blocket</a>
 
 Att köpa en katt är ett stort beslut. Priset ni betalar vid inköp är den lilla delen av totalkostnaden, så en god ekonomi är en förutsättning. Ni måste vara redo att ta hand om katten under hela dens livstid, som i bästa fall kan vara uppåt 20 år. Katten vill ha sällskap så stor del av dagen som möjligt. Den vill stimuleras med lek, särskilt i unga år, men även gamla katter vill vara nära och tycker ofta om att leka. Kärlek är vad katten behöver allra mest, och kärlek är vad katten då kommer att ge tillbaka, i många fantastiska år tillsammans med er familj.
 

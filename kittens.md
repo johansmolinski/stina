@@ -10,6 +10,7 @@ Vår fantastiske lille Atari är snart redo att flytta till ett nytt kärleksful
 
 Väl omhändertagen av mamma Stina och vår 8 månader gamla kattunge Sture, som har busat och tränat med honom varje dag, som om det var hans bror. För en ensam liten kisse har det varit helt ovärderligt. 
 
+<a href="https://www.blocket.se/annons/stockholm/renrasig_maine_coon_kattunge_med_stamtavla_/1213669126" class="btn">Atari på Blocket</a>
 <h3>Kattungen</h3>
 <ul>
 <li>Atari (<a href="https://findus.sverak.se/Stambok/Visa/584506">stamtavla SE*Vassa Klor Atari</a>)</li>
