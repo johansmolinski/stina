@@ -6,7 +6,7 @@ permalink: kattungar.html
 
 <h1>Aktuell kull&dash;SE*Vassa klor</h1>
 
-Vår fantastiske lille Atari är snart redo att flytta till ett nytt kärleksfullt hem! Han är född 7 juli 2025 och blir leveransklar 14 oktober. Det är en social, trygg och nyfiken liten grabb med mycket spring i benen.
+Vår fantastiske lille Atari är snart redo att flytta till ett nytt kärleksfullt hem! Han är född 8 juli 2025 och blir leveransklar 14 oktober. Det är en social, trygg och nyfiken liten grabb med mycket spring i benen.
 
 Väl omhändertagen av mamma Stina och vår 8 månader gamla kattunge Sture, som har busat och tränat med honom varje dag, som om det var hans bror. För en ensam liten kisse har det varit helt ovärderligt. 
 
