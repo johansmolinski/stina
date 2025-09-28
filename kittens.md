@@ -6,11 +6,11 @@ permalink: kattungar.html
 
 <h1>Aktuell kull&dash;SE*Vassa klor</h1>
 
+<h2 class="em">Tingad!</h2>
 Vår fantastiske lille Atari är snart redo att flytta till ett nytt kärleksfullt hem! Han är född 8 juli 2025 och blir leveransklar 14 oktober. Det är en social, trygg och nyfiken liten grabb med mycket spring i benen.
 
 Väl omhändertagen av mamma Stina och vår 8 månader gamla kattunge Sture, som har busat och tränat med honom varje dag, som om det var hans bror. För en ensam liten kisse har det varit helt ovärderligt. 
 
-<a href="https://www.blocket.se/annons/stockholm/renrasig_maine_coon_kattunge_med_stamtavla_/1213669126" class="btn">Atari på Blocket</a>
 <h3>Kattungen</h3>
 <ul>
 <li>Atari (<a href="https://findus.sverak.se/Stambok/Visa/584506">stamtavla SE*Vassa Klor Atari</a>)</li>
