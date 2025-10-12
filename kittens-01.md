@@ -8,7 +8,7 @@ permalink: kull-1.html
 
 <h3>Kattungarna</h3>
 <ul>
-<li>Vivaldi(<a href="https://findus.sverak.se/Stambok/Visa/571984">stamtavla SE*Vassa klor Vivaldi</a>)</li>
+<li>Vivaldi (<a href="https://findus.sverak.se/Stambok/Visa/571984">stamtavla SE*Vassa klor Vivaldi</a>)</li>
 <li>Chopin (<a href="https://findus.sverak.se/Stambok/Visa/571982">stamtavla SE*Vassa klor Chopin</a>)</li>
 <li>Bach (<a href="https://findus.sverak.se/Stambok/Visa/571983">stamtavla SE*Vassa klor Bach</a>)</li>
 </ul>
@@ -125,5 +125,11 @@ permalink: kull-1.html
 </div>
 
 </div>
+
+<h2>Fler kullar</h2>
+<ul>
+<li><a href="kull-2.html">Andra kullen (2025)</a></li>
+</ul>
+
 
 <script src="{{ '/assets/js/gallery.js' | relative_url }}"></script>
