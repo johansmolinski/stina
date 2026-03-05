@@ -10,10 +10,10 @@ permalink: kull-3.html
 
 <h3>Kattungarna</h3>
 <ul>
-<li>Paula (<a href="https://findus.sverak.se/Stambok/Visa/591628">stamtavla SE*Vassa klor Paula</a>)</li>
-<li>Denise (<a href="https://findus.sverak.se/Stambok/Visa/591626">stamtavla SE*Vassa klor Denise</a>)</li>
 <li>Buster (<a href="https://findus.sverak.se/Stambok/Visa/591624">stamtavla SE*Vassa klor Buster</a>)</li>
+<li>Denise (<a href="https://findus.sverak.se/Stambok/Visa/591626">stamtavla SE*Vassa klor Denise</a>)</li>
 <li>Lisa (<a href="https://findus.sverak.se/Stambok/Visa/591627">stamtavla SE*Vassa klor Lisa</a>)</li>
+<li>Paula (<a href="https://findus.sverak.se/Stambok/Visa/591628">stamtavla SE*Vassa klor Paula</a>)</li>
 <li>Ramsy (<a href="https://findus.sverak.se/Stambok/Visa/591625">stamtavla SE*Vassa klor Ramsy</a>)</li>
 </ul>
 <h3>Föräldrarna</h3>
@@ -26,21 +26,51 @@ permalink: kull-3.html
 <div class="gallery">
 
 <div class="kitten-card">
-    <img src="/assets/images/kittens-03/kitten-01.jpg" alt="">
+    <img src="/assets/images/kittens-03/kitten-17.jpg" alt="">
+    <h2>Mor Stina</h2>
+    <p></p>
+</div>
+
+<div class="kitten-card">
+    <img src="/assets/images/kittens-02/sture-01.jpg" alt="">
+    <h2>Far Sture</h2>
+    <p></p>
+</div>
+
+<div class="kitten-card">
+    <img src="/assets/images/kittens-03/kitten-25.jpg" alt="">
+    <h2>Buster</h2>
+    <p></p>
+</div>
+
+<div class="kitten-card">
+    <img src="/assets/images/kittens-03/kitten-32.jpg" alt="">
     <h2>Denise</h2>
-    <p>Denise leker med kulbrickan och Buster vilar i bakgrunden</p>
+    <p></p>
+</div>
+
+<div class="kitten-card">
+    <img src="/assets/images/kittens-03/kitten-08.jpg" alt="">
+    <h2>Lisa</h2>
+    <p></p>
+</div>
+
+<div class="kitten-card">
+    <img src="/assets/images/kittens-03/kitten-27.jpg" alt="">
+    <h2>Paula</h2>
+    <p></p>
+</div>
+
+<div class="kitten-card">
+    <img src="/assets/images/kittens-03/kitten-03.jpg" alt="">
+    <h2>Ramsy</h2>
+    <p></p>
 </div>
 
 <div class="kitten-card">
     <img src="/assets/images/kittens-03/kitten-02.jpg" alt="">
     <h2>Buster</h2>
     <p>Leker med kulbrickan</p>
-</div>
-
-<div class="kitten-card">
-    <img src="/assets/images/kittens-03/kitten-03.jpg" alt="">
-    <h2>Ramsy</h2>
-    <p>Ramsy högst upp på klösträdet</p>
 </div>
 
 <div class="kitten-card">
@@ -68,9 +98,9 @@ permalink: kull-3.html
 </div>
 
 <div class="kitten-card">
-    <img src="/assets/images/kittens-03/kitten-08.jpg" alt="">
-    <h2>Lisa</h2>
-    <p></p>
+    <img src="/assets/images/kittens-03/kitten-01.jpg" alt="">
+    <h2>Denise</h2>
+    <p>Denise leker med kulbrickan och Buster vilar i bakgrunden</p>
 </div>
 
 <div class="kitten-card">
@@ -134,12 +164,6 @@ permalink: kull-3.html
 </div>
 
 <div class="kitten-card">
-    <img src="/assets/images/kittens-03/kitten-19.jpg" alt="">
-    <h2>Denise</h2>
-    <p>Av fotografering blir man törstig</p>
-</div>
-
-<div class="kitten-card">
     <img src="/assets/images/kittens-03/kitten-20.jpg" alt="">
     <h2>Buster</h2>
     <p>Tasstvätt</p>
@@ -170,21 +194,9 @@ permalink: kull-3.html
 </div>
 
 <div class="kitten-card">
-    <img src="/assets/images/kittens-03/kitten-25.jpg" alt="">
-    <h2>Buster</h2>
-    <p></p>
-</div>
-
-<div class="kitten-card">
     <img src="/assets/images/kittens-03/kitten-26.jpg" alt="">
     <h2>Buster och Paula</h2>
     <p>Daglig brottarträning</p>
-</div>
-
-<div class="kitten-card">
-    <img src="/assets/images/kittens-03/kitten-27.jpg" alt="">
-    <h2>Paula</h2>
-    <p></p>
 </div>
 
 <div class="kitten-card">
@@ -208,12 +220,6 @@ permalink: kull-3.html
 <div class="kitten-card">
     <img src="/assets/images/kittens-03/kitten-31.jpg" alt="">
     <h2>Denise och Paula</h2>
-    <p></p>
-</div>
-
-<div class="kitten-card">
-    <img src="/assets/images/kittens-03/kitten-32.jpg" alt="">
-    <h2>Denise</h2>
     <p></p>
 </div>
 
