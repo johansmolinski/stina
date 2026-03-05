@@ -129,6 +129,7 @@ permalink: kull-1.html
 <h2>Fler kullar</h2>
 <ul>
 <li><a href="kull-2.html">Andra kullen (2025)</a></li>
+<li><a href="kull-3.html">Tredje kullen (2026)</a></li>
 </ul>
 
 

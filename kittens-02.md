@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Maine Coon-kattungar i Södertälje
+title: Andra kullen 
 permalink: kull-2.html
 ---
 
@@ -154,6 +154,7 @@ Vår andra kull bestod av en kattunge. Han har nu flyttat till sin nya kärleksf
 <h2>Fler kullar</h2>
 <ul>
 <li><a href="kull-1.html">Första kullen (2024)</a></li>
+<li><a href="kull-3.html">Tredje kullen (2026)</a></li>
 </ul>
 
 <script src="{{ '/assets/js/gallery.js' | relative_url }}"></script>
