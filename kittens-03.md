@@ -8,6 +8,8 @@ permalink: kull-3.html
 
 <p>Vi har nu en härlig kull om fem livliga hårbollar. Tre tjejer och två killar. Födda 4 januari och är leveransklara från fjortonde veckan, dvs lördagen 11 april.</p>
 
+<a href="https://www.blocket.se/recommerce/forsale/item/21299928" class="btn">Annons på Blocket</a>
+
 <h3>Kattungarna</h3>
 <ul>
 <li>Buster (<a href="https://findus.sverak.se/Stambok/Visa/591624">stamtavla SE*Vassa klor Buster</a>)</li>

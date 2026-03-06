@@ -14,10 +14,10 @@ När ni kommer på besök och tingar en katt ser vi gärna att hela familjen är
 👉 Här är en [länk till Royal Canins guide med bra tips inför att skaffa en kattunge](https://www.royalcanin.com/se/cats/kitten/preparing-for-your-kittens-arrival).
 
 <!--
+-->
 Besök vår annons genom att klicka på knappen nedan. Skriv till oss via den annonsen, gärna med en presentation av er och vad ni kan erbjuda för hem och förutsättningar för kattungen.
 
-<a href="https://www.blocket.se/annons/stockholm/maine_coon_kattungar_med_stamtavla_/1208554925" class="btn">Annons på Blocket</a>
--->
+<a href="https://www.blocket.se/recommerce/forsale/item/21299928" class="btn">Annons på Blocket</a>
 
 ## Om katteriet SE*Vassa klor
 
