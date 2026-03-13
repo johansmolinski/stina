@@ -8,7 +8,7 @@ permalink: kull-3.html
 
 <p>Vi har nu en härlig kull om tre livliga hårbollar. Två tjejer och en kille. Födda 4 januari och är leveransklara från fjortonde veckan, dvs lördagen 11 april.</p>
 
-<p>Liten uppdatering. Kattungarna har två syskon till, som vi väljer att behålla då de saknar vissa rastypiska drag. SE*Vassa klor föder upp Maine Coon och alla ungarna vi säljer ska ha utseende och beteende rasen är känd för.</p>
+<p>Liten uppdatering. Kattungarna har två syskon till, som vi väljer att behålla. SE*Vassa klor föder upp Maine Coon och alla ungarna vi säljer ska ha utseende och beteende rasen är känd för. De två ungarna är världens härligaste, men har individuella variationer som man inte letar efter hos just den rasen.</p>
 
 <a href="https://www.blocket.se/recommerce/forsale/item/21299928" class="btn">Annons på Blocket</a>
 
