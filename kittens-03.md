@@ -15,7 +15,7 @@ permalink: kull-3.html
 <h3>Kattungarna</h3>
 <ul>
 <li>Lisa <strong>TINGAD</strong> (<a href="https://findus.sverak.se/Stambok/Visa/591627">stamtavla SE*Vassa klor Lisa</a>)</li>
-<li>Paula (<a href="https://findus.sverak.se/Stambok/Visa/591628">stamtavla SE*Vassa klor Paula</a>)</li>
+<li>Paula <strong>TINGAD</strong> (<a href="https://findus.sverak.se/Stambok/Visa/591628">stamtavla SE*Vassa klor Paula</a>)</li>
 <li>Ramsy (<a href="https://findus.sverak.se/Stambok/Visa/591625">stamtavla SE*Vassa klor Ramsy</a>)</li>
 </ul>
 <h3>Föräldrarna</h3>
